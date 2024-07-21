@@ -1,9 +1,4 @@
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,git,docker,vim" />
-  </a>
-</p>
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 <!---
 rytst/rytst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
