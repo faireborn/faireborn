@@ -1,6 +1,5 @@
 ### Languages & Framework
 | Python |    C   |
-|--------|--------|
 | <img width=50/> ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | <img width=50/> ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
