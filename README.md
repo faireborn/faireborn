@@ -1,5 +1,6 @@
 ### Languages & Framework
-[![My Skills](https://skillicons.dev/icons?i=python,c,pytorch,sklearn&perline=3)](https://skillicons.dev)
+
+![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
