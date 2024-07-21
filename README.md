@@ -1,5 +1,5 @@
 ### Languages & Framework
-| Python |    C   | Torch  | NumPy  | Pandas | scikit-learn |
+| Python |    C   | Torch  | NumPy  | Pandas | sklearn |
 | ------ | ------ | ------ | ------ | ------ | ------------ |
 | <img width=70/> ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | <img width=70/> ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) | <img width=70/> ![Torch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) | <img width=70/> ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg) | <img width=70/> ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | <img width=70/> ![sklearn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) |
 
