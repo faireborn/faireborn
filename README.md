@@ -1,5 +1,5 @@
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,&perline=3)](https://skillicons.dev)
+### Languages & Framework
+[![My Skills](https://skillicons.dev/icons?i=python,c,pytorch,sklearn&perline=3)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
