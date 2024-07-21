@@ -6,10 +6,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,docker,neovim&perline=3)](https://skillicons.dev)
+### Environmen
+| Linux | Git |
+| ----- | --- |
+| <img width=50/> ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | <img width=50/> ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) |
 
-
+### Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rytst&show_icons=true&theme=tokyonight)
 <!---
 rytst/rytst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
