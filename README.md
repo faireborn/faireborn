@@ -1,5 +1,5 @@
 ### Languages & Framework
-| Python | C |
+| Python |    C   |
 |--------|--------|
 | ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) |
 
