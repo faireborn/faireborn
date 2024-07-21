@@ -1,6 +1,7 @@
 ### Languages & Framework
-
-![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg)
+| python |
+|--------|
+| ![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
