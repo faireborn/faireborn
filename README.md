@@ -1,7 +1,7 @@
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,&perline=3)](https://skillicons.dev)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rytst)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatimerytst)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Tools
