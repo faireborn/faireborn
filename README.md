@@ -1,4 +1,5 @@
-[![My Skills](https://skillicons.dev/icons?i=python,c,docker&perline=3)](https://skillicons.dev)
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,c&perline=3)](https://skillicons.dev)
 
 
 ### Tools
