@@ -1,6 +1,6 @@
 ### Languages & Framework
 | Python |    C   | Torch  | NumPy  | Pandas | scikit-learn |
-|--------|--------|--------|--------|--------|-------------|
+| ------ | ------ | ------ | ------ | ------ | ------------ |
 | <img width=70/> ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | <img width=70/> ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) | <img width=70/> ![Torch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) | <img width=70/> ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg) | <img width=70/> ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | <img width=70/> ![sklearn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
