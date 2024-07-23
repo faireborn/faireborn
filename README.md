@@ -1,6 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=rytst)
 
 ## About me
+- I'm currently learn ML and DL.
+- Also interested in operating system.
 
 ## Languages & Framework
 | Python |    C   | Torch  | NumPy  |
