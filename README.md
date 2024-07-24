@@ -13,7 +13,7 @@
 | ------ | ------ | ------ | ------ |
 <img width=50/> ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | <img width=50/> ![sklearn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Opencv](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg) | <img width=50/> ![Matplotlib](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Environment
@@ -22,7 +22,7 @@
 | <img width=50/> ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | <img width=50/> ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | <img width=50> ![Neovim](https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg) | <img width=50/> ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) |
 
 ## Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rytst&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rytst&show_icons=true&theme=midnight-purple)
 
 ## Links
 
