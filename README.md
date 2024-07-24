@@ -17,9 +17,9 @@
 
 
 ## Environment
-| Linux | Git | Vim | Docker |
+| Linux | Git | Neovim | Docker |
 | ----- | --- | --- | ------ |
-| <img width=50/> ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | <img width=50/> ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | <img width=50> ![Neovim](https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg) | <img width=50/> ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) |
+| <img width=50/> ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | <img width=50/> ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | <img width=50> ![Neovim](https://github.com/devicons/devicon/blob/master/icons/nvim/nvim-original.svg) | <img width=50/> ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) |
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rytst&show_icons=true&theme=midnight-purple)
