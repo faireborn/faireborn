@@ -4,7 +4,7 @@
 - I'm currently learning ML and DL.
 - Also interested in operating system.
 
-## Languages & Framework
+## Languages & Frameworks
 | Python |    C   | Torch  | NumPy  |
 | ------ | ------- | ------ | ---------- |
 | <img width=50/> ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg) | <img width=50/> ![C](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg) | <img width=50/> ![Torch](https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg) | <img width=50/> ![NumPy](https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg) |
