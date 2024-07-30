@@ -17,7 +17,7 @@
 | ------ | ------ | ------ | ------ |
 <img width=50/> ![Pandas](https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg) | <img width=50/> ![sklearn](https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg) | ![Opencv](https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg) | <img width=50/> ![Matplotlib](https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg) |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=midnight-purple^hide=tex,typst)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rytst&theme=midnight-purple&hide=tex,typst)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
