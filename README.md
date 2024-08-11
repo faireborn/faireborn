@@ -24,9 +24,6 @@
 | ----- | --- | --- | ------ |
 | <img width=50/> ![Linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) | <img width=50/> ![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg) | <img width=50> ![Neovim](https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg) | <img width=50/> ![Docker](https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg) |
 
----
-
-## Links
 
 
 <!---
