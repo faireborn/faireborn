@@ -2,7 +2,7 @@
 
 ## About me
 - I'm currently learning ML and DL.
-- Also interested in operating system.
+- Also interested in operating system and compiler.
 
 ---
 
