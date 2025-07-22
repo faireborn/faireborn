@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=rytst)
-
 ## About me
 - I'm currently learning ML and DL.
 - Also interested in operating system and compilers.
